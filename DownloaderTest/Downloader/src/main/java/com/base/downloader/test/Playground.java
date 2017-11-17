@@ -17,7 +17,6 @@ public class Playground {
         while (!queue.isEmpty()){
             System.out.print(queue.poll().toString() + "  ");
         }
-
     }
 
 
